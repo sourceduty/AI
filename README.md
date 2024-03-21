@@ -16,7 +16,7 @@ The current contrast between AI-generated media and human-created media in 2024 
 
 ![Sourceduty Newspaper](https://github.com/sourceduty/AI/assets/123030236/23a65904-d186-4867-a8ec-2efce01014c9)
 
-Sourceduty currently has 323 custom built GPTs sorted and listed below into 22 different categories.
+Sourceduty currently has [hundreds of custom built GPTs](https://github.com/sourceduty/ChatGPT) sorted and listed into different categories.
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
