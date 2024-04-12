@@ -38,6 +38,8 @@ Low intelligence GPT models have gained significant popularity, primarily due to
 <br>
 </details>
 
+***
+
 ### Related Links
 
 [Artificial Superintelligence](https://github.com/sourceduty/Artificial_Superintelligence)
