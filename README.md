@@ -19,5 +19,10 @@ Conversely, AI has also enhanced and assisted jobs, especially where it compleme
 
 The interplay between AI and job roles reveals a dual narrative of displacement and enhancement. While AI leads to job elimination in some sectors, it also creates opportunities for more complex and technologically integrated roles. It demands a shift in skills and training, emphasizing adaptability, technical knowledge, and continuous learning. AI does not merely replace jobs but often transforms them, necessitating a workforce that is versatile and equipped to work alongside ever-evolving technologies. This evolution presents both challenges and opportunities for workers and industries as they navigate the new landscape shaped by artificial intelligence.
 
+#
+### Related Links
+
+[Artificial Superintelligence](https://github.com/sourceduty/Artificial_Superintelligence)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
