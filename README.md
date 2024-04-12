@@ -6,11 +6,15 @@ There is a contrast between AI-generated media and human-created media. This con
 
 The current contrast between AI-generated media and human-created media in 2024 is still very high. The future of this contrast will be much lower and it will be harder to distinguish the difference between AI-generated media and human-created media. This contrast can be measured and visually plotted on a similar graph like the one below. The contrast follows the growth of AI with a steep slope originating at the 1950s and down to the 2020s.
 
-✋ This wasn't written or edited by AI.
+✋ This top section wasn't written or edited by AI.
 
 ![AI_Growth_Over_Time](https://github.com/sourceduty/AI/assets/123030236/d6122d32-e5e6-4025-80f3-61f16793081c)
 
-#
+***
+
+<details><summary>AI-Human Jobs</summary>
+<br>
+
 ### AI-Human Jobs
 
 Artificial intelligence has profoundly impacted the workforce, reshaping both the types of jobs available and how work is conducted. AI has notably eliminated several jobs, particularly those involving routine, repetitive tasks that can be easily automated. For example, AI technologies such as machine learning algorithms and robotic process automation have led to a reduction in the need for data entry clerks, telemarketers, and assembly line workers in certain industries. These roles have been particularly susceptible as AI can process and analyze large volumes of data more efficiently and with fewer errors than humans. Moreover, AI-powered systems have also replaced roles in customer service, such as call center operators, by using chatbots and virtual assistants that can handle a wide range of customer queries without human intervention.
@@ -19,7 +23,21 @@ Conversely, AI has also enhanced and assisted jobs, especially where it compleme
 
 The interplay between AI and job roles reveals a dual narrative of displacement and enhancement. While AI leads to job elimination in some sectors, it also creates opportunities for more complex and technologically integrated roles. It demands a shift in skills and training, emphasizing adaptability, technical knowledge, and continuous learning. AI does not merely replace jobs but often transforms them, necessitating a workforce that is versatile and equipped to work alongside ever-evolving technologies. This evolution presents both challenges and opportunities for workers and industries as they navigate the new landscape shaped by artificial intelligence.
 
-#
+<br>
+</details>
+
+<details><summary>Low Artificial Intelligence Popularity</summary>
+<br>
+
+![High_vs_Low_Intelligence_GPTs_Popularity](https://github.com/sourceduty/AI/assets/123030236/01b775bc-0716-4685-a7ae-81c2483bd062)
+
+Whether high or low intelligence custom GPT models are more popular depends largely on the context in which they are being used. High intelligence models are likely more popular in specialized, professional, or technical fields, whereas low intelligence models could be more popular for general consumer use due to their ease of use and lower cost. Therefore, it isn't a matter of one being universally more popular than the other, but rather each fitting different needs and markets.
+
+Low intelligence GPT models have gained significant popularity, primarily due to their accessibility and cost-effectiveness. These models cater to a broad audience, including small businesses, educators, and general consumers, who seek straightforward solutions for everyday tasks like generating simple text, automating customer service responses, or supporting basic educational activities. Their user-friendly interface and lower computational demands make them highly affordable and easy to integrate into various software applications, enhancing their appeal. Moreover, the lower complexity reduces the risk of generating unintended or overly complex outputs, which is particularly valuable in consumer-facing applications where clarity and simplicity are crucial. As a result, the widespread adoption of low intelligence models is driven by their practicality and affordability, making them a preferred choice for the majority of users who require essential, efficient AI interactions without the need for deep, technical outputs.
+
+<br>
+</details>
+
 ### Related Links
 
 [Artificial Superintelligence](https://github.com/sourceduty/Artificial_Superintelligence)
