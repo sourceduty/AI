@@ -57,6 +57,8 @@ The scenarios with AGI/ASI and quantum computing depict significantly accelerate
 [Artificial Superintelligence](https://github.com/sourceduty/Artificial_Superintelligence)
 <br>
 [xAI](https://github.com/sourceduty/xAI)
+<br>
+[AGI](https://github.com/sourceduty/AGI)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
