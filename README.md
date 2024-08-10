@@ -75,6 +75,8 @@ People can leverage AI to solve global problems by using it to design and implem
 [xAI](https://github.com/sourceduty/xAI)
 <br>
 [AGI](https://github.com/sourceduty/AGI)
+<br>
+[Global Problems](https://github.com/sourceduty/Global_Problems)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
