@@ -12,7 +12,8 @@ The current contrast between AI-generated media and human-created media in 2024 
 
 ![AI_Growth_Over_Time](https://github.com/sourceduty/AI/assets/123030236/d6122d32-e5e6-4025-80f3-61f16793081c)
 
-***
+#
+### Notes
 
 <details><summary>AI-Human Jobs</summary>
 <br>
