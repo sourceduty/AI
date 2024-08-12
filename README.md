@@ -77,6 +77,8 @@ People can leverage AI to solve global problems by using it to design and implem
 [AGI](https://github.com/sourceduty/AGI)
 <br>
 [Global Problems](https://github.com/sourceduty/Global_Problems)
+<br>
+[Computer Science Theory](https://en.wikipedia.org/wiki/Theoretical_computer_science)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
