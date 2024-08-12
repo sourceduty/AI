@@ -96,6 +96,8 @@ However, the theory of AI in computational science is not without its challenges
 [Global Problems](https://github.com/sourceduty/Global_Problems)
 <br>
 [Computer Science Theory](https://en.wikipedia.org/wiki/Theoretical_computer_science)
+<br>
+[Quantum](https://github.com/sourceduty/Quantum)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
