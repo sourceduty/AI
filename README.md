@@ -87,7 +87,9 @@ However, the theory of AI in computational science is not without its challenges
 <br>
 </details>
 
-***
+#
+
+> Alex: "*I'm very happy as a significant contributer of intelligence in the AI revolution.*"
 
 ### Related Links
 
