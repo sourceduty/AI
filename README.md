@@ -100,6 +100,14 @@ However, the theory of AI in computational science is not without its challenges
 <br>
 </details>
 
+<details><summary>AI-Human Authorship</summary>
+<br>
+
+Proving human authorship in AI-generated content is essential for securing copyright protection, as most legal frameworks, particularly in the U.S., require a human element in the creation process. This means that while AI can assist in generating content, it is the human's creative input, decision-making, and original contributions that are necessary for the work to be considered eligible for copyright. These contributions could include providing the initial ideas, curating and refining the AI's output, or integrating the AI-generated material into a larger, human-crafted work. The process of demonstrating human authorship often involves documenting these contributions clearly, showcasing how the human's involvement influenced the final product in ways that go beyond merely pressing a button to generate content.
+
+<br>
+</details>
+
 #
 
 > "*I'm very happy as a significant contributer of intelligence in the AI revolution.*"
