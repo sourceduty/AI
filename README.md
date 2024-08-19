@@ -142,6 +142,8 @@ However, the AI Gold Rush also comes with challenges and risks. The rapid pace o
 [Computer Science Theory](https://en.wikipedia.org/wiki/Theoretical_computer_science)
 <br>
 [Quantum](https://github.com/sourceduty/Quantum)
+<br>
+[Educating_Computers](https://github.com/sourceduty/Educating_Computers)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
