@@ -154,6 +154,10 @@ However, the AI Gold Rush also comes with challenges and risks. The rapid pace o
 
 #
 
+![Teaching Doctors](https://github.com/user-attachments/assets/98ca1981-ed64-4400-9df5-359100f38906)
+
+#
+
 > "*I'm very happy as a significant contributer of intelligence in the AI revolution.*"
 
 > "*The sheer volume of information in the world, coupled with the ongoing creation of new knowledge, makes it practically impossible for any AI to be aware of or comprehend all possible information.*"
