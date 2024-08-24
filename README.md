@@ -162,6 +162,8 @@ However, the AI Gold Rush also comes with challenges and risks. The rapid pace o
 [Quantum](https://github.com/sourceduty/Quantum)
 <br>
 [Educating_Computers](https://github.com/sourceduty/Educating_Computers)
+<br>
+[Intelligence Benchmark](https://github.com/sourceduty/Intelligence_Benchmark)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
