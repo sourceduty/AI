@@ -65,7 +65,7 @@ The comparison between real intelligence and AI highlights the strengths and lim
 #
 ### Knowing Everything
 
-![Meme](https://github.com/user-attachments/assets/aea86022-a9db-4a22-a550-45e10f3a436b)
+![Meme](https://github.com/user-attachments/assets/f1ae7482-7cfc-4580-ac6e-3d0b156e1d48)
 
 Artificial Intelligence (AI), particularly advanced models like those developed by organizations such as OpenAI, have been trained on vast amounts of data across a wide range of subjects, including science. This enables AI to access and analyze a wealth of information quickly, providing insights and answers on numerous topics, from biology and chemistry to physics and mathematics. However, the knowledge AI possesses is not truly comprehensive or all-encompassing. AI models are limited by the data they were trained on, which means their understanding is based on the information available up to a certain point in time. They do not inherently understand the concepts in the way humans do but rather process and generate responses based on patterns and correlations found in the data.
 
