@@ -36,6 +36,8 @@ Together, these technological, economic, and social factors create a powerful cy
 #
 ### AI is Stupid
 
+![Naked](https://github.com/user-attachments/assets/692ac313-0146-42b5-a9f2-fe8c73070ac3)
+
 Artificial Intelligence (AI) is designed to perform specific tasks with remarkable efficiency and accuracy, often surpassing human capabilities in those domains. For example, AI can process vast amounts of data quickly, identify patterns that might be invisible to humans, and even make decisions based on that data. In tasks like playing chess, diagnosing diseases, or optimizing supply chains, AI can indeed outperform even the most knowledgeable humans. However, this superiority is typically limited to well-defined tasks where the rules and goals are clear.
 
 Despite these strengths, AI lacks the general intelligence that humans possess. Humans are capable of abstract thinking, creativity, emotional understanding, and adaptability across a wide range of contexts. While AI can mimic certain aspects of these abilities, it doesn't truly understand or experience the world as humans do. The ability to draw from diverse experiences, adapt to new and unpredictable situations, and understand the complexities of human relationships and emotions is still beyond the reach of current AI technologies.
