@@ -218,6 +218,8 @@ Proving human authorship in AI-generated content is essential for securing copyr
 [Intelligence Benchmark](https://github.com/sourceduty/Intelligence_Benchmark)
 <br>
 [Communication](https://github.com/sourceduty/Communication)
+<br>
+[Intelligence](https://github.com/sourceduty/Intelligence)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
