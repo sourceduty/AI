@@ -162,6 +162,18 @@ People can leverage AI to solve global problems by using it to design and implem
 <br>
 </details>
 
+<details><summary>Offline Local AI</summary>
+<br>
+
+Offline AI models and programs allow users to utilize artificial intelligence capabilities without the need for continuous internet connectivity. This provides several advantages, including enhanced privacy, reduced dependency on external servers, and faster response times. Offline models are particularly useful in environments with limited or unreliable internet access. They also offer a safeguard against data leaks since the processing is done locally, ensuring sensitive information remains within the user’s control. However, offline AI programs often require powerful hardware to perform complex computations, which may not be feasible for all users.
+
+GPT4ALL is an example of an offline AI model designed to provide natural language understanding and generation capabilities. It is based on open-source large language models and can be run on local machines without internet access. GPT4ALL is popular among users who prioritize privacy and want to avoid cloud-based AI services. It is versatile and can be used for various applications such as chatbot development, text summarization, and creative writing. However, being an offline model, it may not be as up-to-date as online models since it doesn't continuously access new data and updates from the web.
+
+Jan is another offline AI program focused on bringing language processing capabilities to local environments. It is designed to work efficiently on smaller devices and edge computing platforms, making it suitable for scenarios where computational resources are limited. Jan supports various natural language processing tasks such as text analysis, translation, and speech recognition. It is built to be lightweight, offering a balance between performance and resource usage. Like GPT4ALL, Jan enables users to maintain control over their data and use AI tools in a more secure and isolated environment.
+
+<br>
+</details>
+
 <details><summary>Theory of AI in Computational Science</summary>
 <br>
 
