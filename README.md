@@ -21,7 +21,7 @@ As the adoption of custom GPTs accelerates, the ecosystem surrounding these mode
 Looking forward, the future of custom GPTs as the initial revolution settles will likely be marked by greater sophistication and integration into everyday life. As the market matures, we can expect a shift from the current hype-driven expansion to a more stabilized, value-driven adoption. Custom GPTs will become more seamlessly embedded into various platforms and services, making AI an invisible yet integral part of our digital experience. This period will also see increased focus on the ethical use of AI, ensuring that the deployment of custom GPTs is aligned with societal values and regulations. In the long term, custom GPTs could evolve to become highly specialized assistants or partners, capable of understanding and anticipating user needs with minimal input, thereby redefining how we interact with technology.
 
 #
-###
+### GPTs
 
 The history of GPTs (Generative Pre-trained Transformers) showcases a rapid evolution in natural language processing capabilities. Starting with GPT-1 in 2018, which had 117 million parameters and focused on unsupervised learning, each subsequent model saw exponential growth in scale and performance. GPT-2, released in 2019 with 1.5 billion parameters, demonstrated the ability to generate coherent text, raising concerns about its misuse. GPT-3, with an unprecedented 175 billion parameters, introduced few-shot learning, allowing it to perform a wide range of tasks with minimal examples. In 2021, Codex, a specialized version of GPT-3, was introduced to assist with programming tasks, further expanding the applicability of these models beyond natural language.
 
