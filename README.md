@@ -21,6 +21,26 @@ As the adoption of custom GPTs accelerates, the ecosystem surrounding these mode
 Looking forward, the future of custom GPTs as the initial revolution settles will likely be marked by greater sophistication and integration into everyday life. As the market matures, we can expect a shift from the current hype-driven expansion to a more stabilized, value-driven adoption. Custom GPTs will become more seamlessly embedded into various platforms and services, making AI an invisible yet integral part of our digital experience. This period will also see increased focus on the ethical use of AI, ensuring that the deployment of custom GPTs is aligned with societal values and regulations. In the long term, custom GPTs could evolve to become highly specialized assistants or partners, capable of understanding and anticipating user needs with minimal input, thereby redefining how we interact with technology.
 
 #
+###
+
+The history of GPTs (Generative Pre-trained Transformers) showcases a rapid evolution in natural language processing capabilities. Starting with GPT-1 in 2018, which had 117 million parameters and focused on unsupervised learning, each subsequent model saw exponential growth in scale and performance. GPT-2, released in 2019 with 1.5 billion parameters, demonstrated the ability to generate coherent text, raising concerns about its misuse. GPT-3, with an unprecedented 175 billion parameters, introduced few-shot learning, allowing it to perform a wide range of tasks with minimal examples. In 2021, Codex, a specialized version of GPT-3, was introduced to assist with programming tasks, further expanding the applicability of these models beyond natural language.
+
+Custom GPTs emerged as a significant development from 2023 onwards, enabling users to tailor models to specific tasks or domains. This innovation allows for the creation of bespoke AI models optimized for various applications, such as customer support, content creation, and specialized industry needs. By fine-tuning the base GPT models on specific datasets or instructions, Custom GPTs offer a more focused and efficient solution for businesses and developers seeking to integrate AI into their workflows. This advancement has opened new avenues for leveraging AI capabilities in a more controlled and purpose-driven manner, aligning the technology more closely with user-specific requirements.
+
+<br>
+
+| Model          | Release Date | Key Features                                            | Notable Use Cases                           |
+|----------------|--------------|---------------------------------------------------------|--------------------------------------------|
+| GPT-1          | June 2018    | 117M parameters, unsupervised learning                   | Text generation, basic conversation        |
+| GPT-2          | February 2019| 1.5B parameters, capable of coherent text generation    | Content creation, text-based applications  |
+| GPT-3          | June 2020    | 175B parameters, few-shot learning, versatile language model| Complex conversations, creative writing   |
+| Codex          | August 2021  | Specialization for programming, integrates with GitHub Copilot| Code generation, software development  |
+| InstructGPT    | January 2022 | Enhanced instruction-following behavior                 | Instruction-based tasks, chat applications |
+| ChatGPT        | November 2022| Fine-tuned on conversational data, improved user interaction | Interactive chat applications              |
+| GPT-4          | March 2023   | Multimodal capabilities, improved reasoning and factuality| Complex problem solving, advanced applications |
+| Custom GPTs    | 2023 onward  | User-tailored models, specific task or domain optimization | Domain-specific assistance, enterprise solutions|
+
+#
 ### AI-Controlled
 
 AI control refers to the mechanisms and strategies put in place to ensure artificial intelligence systems behave as intended and do not pose risks to humans or society. The need for AI control arises from the potential for AI to operate autonomously and make decisions that may have significant consequences. This is particularly important as AI systems become more advanced, capable of learning and evolving beyond their initial programming. Effective AI control involves both technical and regulatory measures to manage these systems' behaviors and prevent unintended or harmful outcomes.
