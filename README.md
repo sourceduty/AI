@@ -43,6 +43,8 @@ Custom GPTs emerged as a significant development from 2023 onwards, enabling use
 #
 ### AI-Controlled
 
+![Skynet](https://github.com/user-attachments/assets/7bfa03a2-83dd-4842-ab8e-16e79a7e7b1b)
+
 AI control refers to the mechanisms and strategies put in place to ensure artificial intelligence systems behave as intended and do not pose risks to humans or society. The need for AI control arises from the potential for AI to operate autonomously and make decisions that may have significant consequences. This is particularly important as AI systems become more advanced, capable of learning and evolving beyond their initial programming. Effective AI control involves both technical and regulatory measures to manage these systems' behaviors and prevent unintended or harmful outcomes.
 
 Technical control methods include designing AI with built-in safety features, such as reinforcement learning techniques that reward desired behavior and penalize undesired actions. Other methods include creating "kill switches" or interruptibility protocols that can stop the AI from performing harmful actions. These technical solutions are crucial for preventing AI systems from acting unpredictably or contrary to human intentions. However, they are not foolproof, as overly restrictive controls can hinder the AI's performance, and some systems might find ways to circumvent these constraints.
