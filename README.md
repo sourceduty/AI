@@ -52,6 +52,18 @@ Technical control methods include designing AI with built-in safety features, su
 Regulatory control involves establishing laws and guidelines that govern AI development and deployment. This includes defining standards for AI ethics, data usage, and transparency. Governments and international organizations are increasingly focusing on creating frameworks that ensure AI development aligns with societal values and human rights. Regulatory control is necessary to complement technical measures, as it provides a broader societal oversight that can address issues like privacy, accountability, and fairness. Balancing innovation and regulation is a key challenge, as overly stringent rules could stifle technological advancement, while lax regulations might fail to prevent misuse.
 
 #
+### Self-Regulation Degrees
+
+| Degree of Self-Regulation         | Description                                                                 | Example                                           | Key Features                                         |
+|-----------------------------------|-----------------------------------------------------------------------------|---------------------------------------------------|------------------------------------------------------|
+| Basic Feedback Control            | Simple feedback loop for immediate corrections.                             | Thermostat regulating temperature.                | Immediate correction, no learning.                   |
+| Adaptive Control                  | Adjusts behavior based on past performance or environmental changes.        | Machine learning adjusting weights over time.      | Learning from experience, behavior modification.     |
+| Predictive Regulation             | Uses internal models to predict future states and adjust actions.           | Predictive maintenance systems.                   | Future-oriented, proactive adjustments.              |
+| Goal-Oriented Self-Regulation     | Operates with explicit goals and plans to achieve objectives.               | Robot planning a path in an environment.           | Goal-setting, multi-step planning, optimization.     |
+| Self-Monitoring and Meta-Regulation| Monitors its own processes, self-corrects, and adapts decision-making.       | Meta-learning systems improving learning strategy. | Self-awareness of processes, recursive feedback.      |
+| Autonomous Self-Regulation        | Fully autonomous, integrates all lower levels, sets goals, predicts, adapts.| Autonomous vehicles in dynamic environments.       | Full independence, dynamic adaptation, goal-setting. |
+
+#
 ### Custom GPT Market Saturation
 
 ![Flooded](https://github.com/user-attachments/assets/c34bbf3c-115a-4b9f-a9a7-af55230d95ef)
