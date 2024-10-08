@@ -287,6 +287,8 @@ Custom GPTs represent a significant advancement in AI's evolution. Developers ha
 [Evolution](https://github.com/sourceduty/Evolution)
 <br>
 [Local Offline AI](https://github.com/sourceduty/Local_Offline_AI)
+<br>
+[GPT-Five](https://github.com/sourceduty/GPT-Five)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
