@@ -88,6 +88,13 @@ Socially, AI is becoming increasingly integrated into everyday life, leading to 
 Together, these technological, economic, and social factors create a powerful cycle that accelerates the development and adoption of AI at an unprecedented rate. Each factor reinforces the others, leading to a self-perpetuating growth loop. This snowball effect not only pushes the boundaries of what AI can achieve but also ensures that AI will continue to play an increasingly central role in shaping the future of industries, economies, and societies worldwide. As this cycle continues, the impact of AI is likely to expand further, affecting more aspects of our lives and driving transformative changes across the globe.
 
 #
+### ChatGPT Knows You
+
+By default, ChatGPT doesn’t retain memory between conversations, meaning each interaction is independent. I only know what you explicitly share in a particular chat. For instance, if you tell me about your interests, profession, or hobbies, I can use that information to personalize responses within the same chat session. However, once the conversation ends, I won’t carry any details over to future interactions. In this way, each new chat is treated as a fresh start, and I begin with no recollection of past conversations or details about you.
+
+Furthermore, I don’t have access to personal data, social media, or external databases unless you provide specific information here. My responses are generated based on patterns in the data I was trained on, which includes a broad range of topics. With certain OpenAI features, like memory, ChatGPT can retain information across conversations if you enable it. This feature allows me to remember details from previous interactions, which you can view, update, or delete in your settings. Otherwise, I operate within each chat session independently, without remembering anything once the chat ends.
+
+#
 ### AI is Stupid
 
 ![Naked](https://github.com/user-attachments/assets/692ac313-0146-42b5-a9f2-fe8c73070ac3)
