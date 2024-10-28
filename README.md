@@ -8,7 +8,11 @@ There is a contrast between AI-generated media and human-created media. This con
 
 The current contrast between AI-generated media and human-created media in 2024 is still very high. The future of this contrast will be much lower and it will be harder to distinguish the difference between AI-generated media and human-created media. This contrast can be measured and visually plotted on a similar graph like the one below. The contrast follows the growth of AI with a steep slope originating at the 1950s and down to the 2020s.
 
+.....................
+
 > Alex: "*✋ This top section wasn't written or edited by AI.*"
+
+> "*AI rapidly assists the man-made development of itself and it also teaches itself which accelerates it's own development.*"
 
 #
 
