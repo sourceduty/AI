@@ -383,6 +383,10 @@ Custom GPTs represent a significant advancement in AI's evolution. Developers ha
 [GPT-Five](https://github.com/sourceduty/GPT-Five)
 <br>
 [AI Image Enhancer](https://picsart.com/ai-image-enhancer/)
+<br>
+[Theory](https://github.com/sourceduty/theory)
+<br>
+[Theoretical Modelling](https://github.com/sourceduty/theoretical_modelling)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
