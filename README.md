@@ -398,6 +398,8 @@ Custom GPTs represent a significant advancement in AI's evolution. Developers ha
 [Theoretical Modelling](https://github.com/sourceduty/theoretical_modelling)
 <br>
 [ASI](https://github.com/sourceduty/ASI)
+<br>
+[GPT Driven](https://github.com/sourceduty/GPT-Driven)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
