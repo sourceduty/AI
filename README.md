@@ -375,6 +375,8 @@ Custom GPTs represent a significant advancement in AI's evolution. Developers ha
 <br>
 [Computer Science Theory](https://en.wikipedia.org/wiki/Theoretical_computer_science)
 <br>
+[AI Image Enhancer](https://picsart.com/ai-image-enhancer)
+<br>
 [Quantum](https://github.com/sourceduty/Quantum)
 <br>
 [Educating_Computers](https://github.com/sourceduty/Educating_Computers)
@@ -394,6 +396,8 @@ Custom GPTs represent a significant advancement in AI's evolution. Developers ha
 [AI Image Enhancer](https://picsart.com/ai-image-enhancer/)
 <br>
 [Theory](https://github.com/sourceduty/theory)
+<br>
+[Background Remover](https://www.photoroom.com/tools/background-remover)
 <br>
 [Theoretical Modelling](https://github.com/sourceduty/theoretical_modelling)
 <br>
