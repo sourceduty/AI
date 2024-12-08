@@ -14,6 +14,8 @@ The current contrast between AI-generated media and human-created media in 2024 
 
 > "*AI rapidly assists the man-made development of itself and it also teaches itself which accelerates it's own development.*"
 
+> "*I can talk privately about AI in depth for a long time because I understand 85% of how it works and why it works.*"
+
 #
 
 ![AI_Growth_Over_Time](https://github.com/sourceduty/AI/assets/123030236/d6122d32-e5e6-4025-80f3-61f16793081c)
