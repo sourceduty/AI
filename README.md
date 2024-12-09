@@ -82,6 +82,17 @@ The development of custom GPTs is a gradual and evolving process, marked by both
 Sourceduty is positioning itself to be an industry leader in this emerging market, with ambitions to become perhaps the largest single developer of custom GPTs. With a projected portfolio nearing 1,000 distinct custom GPTs, Sourceduty aims to offer a comprehensive range of specialized AI tools that cater to diverse needs across sectors. This scale of development will place Sourceduty in a unique position to not only supply bespoke solutions but also to shape best practices and standards in the custom GPT space. By leveraging this extensive library of models, Sourceduty can attract a wide client base, building its reputation as the go-to source for customizable AI that seamlessly integrates with various workflows. This level of innovation could set a new benchmark for the industry, establishing Sourceduty as a pioneer in pushing the boundaries of what custom GPTs can achieve.
 
 #
+### Homebrewing AI
+
+![Homebrew](https://github.com/user-attachments/assets/a409493f-7a2e-4c72-b205-8fea3e60ba59)
+
+The time it takes to develop an AI model at home varies significantly based on the complexity of the model, the size of the dataset, and the hardware available. For simple machine learning models, such as linear regression or small neural networks, the process may take only a few hours to a couple of days. This includes tasks like data preprocessing, writing the code, and running the model. Even with modest hardware, such as a mid-range GPU or a powerful CPU, these tasks are usually manageable within a short timeframe.
+
+For intermediate models, such as convolutional neural networks (CNNs) used for image recognition or recurrent neural networks (RNNs) for sequence tasks, the development time typically extends to several days or weeks. The duration largely depends on the size of the dataset and the computational power available. High-performance GPUs can significantly reduce training time, whereas relying solely on a CPU may prolong the process. Additionally, time must be allocated for fine-tuning hyperparameters, debugging, and validating the model's performance.
+
+Advanced models, such as transformers (e.g., GPT or BERT) or generative adversarial networks (GANs), may take weeks or even months to develop at home. These models often require extensive computational resources and large datasets. Training a transformer model on a single high-end GPU can take weeks, but utilizing techniques such as transfer learning with pre-trained weights can shorten the process. In cases where hardware is limited, leveraging cloud-based services or distributed computing can help expedite training while maintaining feasibility for complex projects.
+
+#
 ### Machine-Coded GPT Concept (Machine GPTs)
 
 ![Machine GPTs](https://github.com/user-attachments/assets/61478c23-e00d-4ecd-9274-1123d69e4506)
