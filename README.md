@@ -115,6 +115,15 @@ For hardware, a typical homebrew setup might include a Raspberry Pi 4 or similar
 While the cost is manageable, creating a homebrewed machine-coded AI model still requires time and expertise. Developers would need to write efficient machine code or assembly routines tailored to their hardware, possibly combining it with high-level languages like Python for ease of prototyping. Training a simple AI model locally would also require careful dataset preparation and optimization to ensure it can function effectively within the hardware's constraints. Despite its simplicity, such a system could effectively automate tasks like data logging, environmental monitoring, or basic robotics, making it a practical and educational project for AI enthusiasts and hobbyists.
 
 #
+### Example AI Model Development Requirements
+
+![AI](https://github.com/user-attachments/assets/4dd8d000-4e0e-4dbd-b822-f883ca232e23)
+
+The creation of the Nous-Hermes-Llama2-13b model, like other large language models, requires state-of-the-art hardware to handle the immense computational and memory demands. Typically, such models are trained on high-performance GPUs like NVIDIA A100 or H100 cards, which offer 40–80 GB of VRAM per unit. These GPUs are specifically optimized for deep learning tasks, providing exceptional throughput for matrix multiplications and other operations common in training neural networks. Multi-GPU setups, connected through NVLink or similar technologies, are often used to split the workload and accommodate the model’s 13 billion parameters efficiently. The substantial memory capacity is crucial for managing the model's weight matrices, gradients, and intermediate activations, especially in mixed-precision formats like FP16 or BF16.
+
+In addition to GPUs, large-scale training also relies on robust CPUs and fast storage solutions. High-core-count CPUs, such as AMD EPYC or Intel Xeon processors, are used for data preprocessing, orchestrating GPU operations, and managing input-output pipelines. Storage systems often consist of NVMe SSD arrays to ensure rapid data access and minimize bottlenecks in feeding data to the GPUs. Distributed training frameworks, such as PyTorch's DistributedDataParallel (DDP) or Hugging Face's Accelerate, further leverage this hardware to synchronize operations across multiple nodes in data centers. These setups, typically found in cloud platforms or dedicated AI research labs, enable the training of massive models like Nous-Hermes-Llama2-13b within a reasonable timeframe, often spanning a few days to weeks, depending on the scale of resources allocated.
+
+#
 ### Python-Coded GPTs (Pythonic GPTs)
 
 ![Pythonic GPTs](https://github.com/user-attachments/assets/650161fd-656c-4fb2-a89d-f0b3412d9fd7)
