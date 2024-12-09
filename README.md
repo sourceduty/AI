@@ -474,6 +474,8 @@ Custom GPTs represent a significant advancement in AI's evolution. Developers ha
 [GPT Driven](https://github.com/sourceduty/GPT-Driven)
 <br>
 [Layla AI](https://github.com/sourceduty/Layla_AI)
+<br>
+[Cluster Computing](https://github.com/sourceduty/Cluster_Computing)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
