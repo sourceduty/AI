@@ -26,6 +26,22 @@ Looking forward, the future of custom GPTs as the initial revolution settles wil
 
 #
 
+![Tools](https://github.com/user-attachments/assets/dcf4266c-25fd-41d3-b0f5-34fb912caddb)
+
+```
+Custom GPTs
+Personalized Chatbots
+Offline GPTs
+Voice-Activated AI
+Automated Coding
+Image Generation
+Text Generation
+Real-Time Translation
+OS AI Assistants
+```
+
+#
+
 [Agentic Automation](https://github.com/sourceduty/Agentic_Automation)
 <br>
 [Custom GPTs](https://sourceduty.com/custom-gpts/)
