@@ -28,6 +28,8 @@ Looking forward, the future of custom GPTs as the initial revolution settles wil
 
 ![Tools](https://github.com/user-attachments/assets/dcf4266c-25fd-41d3-b0f5-34fb912caddb)
 
+Standard AI Revolution Tools
+
 ```
 Custom GPTs
 Personalized Chatbots
@@ -38,6 +40,19 @@ Image Generation
 Text Generation
 Real-Time Translation
 OS AI Assistants
+```
+
+#
+
+![Bigfoot Log Cabin](https://github.com/user-attachments/assets/ddca2139-ef39-446c-a36b-a6edba390101)
+
+Fun Stuff
+
+```
+Bigfoot Building a Log Cabin
+Movies Ruined with AI
+AI Image Enhancers
+AI Watermark Removal
 ```
 
 #
