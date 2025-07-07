@@ -28,9 +28,10 @@ Looking forward, the future of custom GPTs as the initial revolution settles wil
 
 ![Tools](https://github.com/user-attachments/assets/dcf4266c-25fd-41d3-b0f5-34fb912caddb)
 
-Standard AI Revolution Tools
 
 ```
+Standard AI Revolution Tools:
+
 Custom GPTs
 Personalized Chatbots
 Offline GPTs
