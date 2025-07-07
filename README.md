@@ -44,11 +44,12 @@ OS AI Assistants
 
 #
 
-![Bigfoot Log Cabin](https://github.com/user-attachments/assets/ddca2139-ef39-446c-a36b-a6edba390101)
-
-Fun Stuff
+![Spaghetti Smith](https://github.com/user-attachments/assets/b48bfbcf-296c-4215-a87a-a5262fc9f6f4)
 
 ```
+Fun Stuff:
+
+Will Smith Eating Spaghetti
 Bigfoot Building a Log Cabin
 Movies Ruined with AI
 AI Image Enhancers
