@@ -66,3 +66,7 @@ AI Naked
 [Custom GPTs](https://sourceduty.com/custom-gpts/)
 <br>
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Theoretical Engine](https://github.com/sourceduty/Theoretical_Engine)
+<br>
+[Math Engines](https://github.com/sourceduty/Math_Engines)
