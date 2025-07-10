@@ -76,3 +76,5 @@ Artificial Intelligence, or AI, can be better understood not just as intelligent
 [Theoretical Engine](https://github.com/sourceduty/Theoretical_Engine)
 <br>
 [Math Engines](https://github.com/sourceduty/Math_Engines)
+<br>
+[Word Vector](https://chatgpt.com/g/g-686c5fbbcc908191a36479801b470571-word-vector)
